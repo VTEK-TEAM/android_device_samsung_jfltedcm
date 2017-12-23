@@ -8,3 +8,6 @@ telephony.lteOnGsmDevice=1
 ro.telephony.default_network=9
 ro.ril.enable.dcm.feature=1
 
+#OTA
+cm.updater.uri=https://raw.githubusercontent.com/VTEK-TEAM/CMupdater_API/cm-14.1/jfltedcm.json
+
